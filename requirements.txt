@@ -1,1 +1,13 @@
 streamlit
+pandas
+numpy
+plotly
+openpyxl
+xlsxwriter
+fpdf2
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+gspread-dataframe
+matplotlib
